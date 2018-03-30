@@ -70,7 +70,7 @@ class WorkflowTestAlgorithm(QgsProcessingAlgorithm):
         self.addParameter(
             QgsProcessingParameterFeatureSource(
                 self.INPUT,
-                self.tr('Input layer'),
+                self.tr('Input layer sdfgscfgsfdg'),
                 [QgsProcessing.TypeVectorAnyGeometry]
             )
         )
